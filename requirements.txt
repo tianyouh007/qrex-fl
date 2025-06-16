@@ -1,0 +1,57 @@
+# Core ML/DL frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Post-Quantum Cryptography (NIST FIPS 204, 203, 205)
+pqcrypto>=0.3.1
+dilithium-py>=1.0.0
+cryptography>=41.0.0
+
+# Federated Learning (Flower framework - research proven)
+flwr>=1.8.0
+opacus>=1.4.0
+
+# Blockchain and Web3
+web3>=6.0.0
+requests>=2.31.0
+
+# Graph Analysis for Bitcoin transactions
+networkx>=3.0
+torch-geometric>=2.3.0
+
+# Explainable AI
+shap>=0.42.0
+lime>=0.2.0.1
+captum>=0.7.0
+
+# Data Processing
+tqdm>=4.65.0
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Development Tools
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# API and Web Framework
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Configuration Management
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Compliance and Regulatory
+python-dateutil>=2.8.0
